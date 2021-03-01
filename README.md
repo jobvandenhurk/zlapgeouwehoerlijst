@@ -12,4 +12,4 @@ Thomas: zharlock
 
 Save the file, and run it from the command line:
 
-python /path_to_file/Lijst.py
+$ python /path_to_file/Lijst.py
